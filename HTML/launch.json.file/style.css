@@ -1,0 +1,44 @@
+style.css
+*{
+    margin-left: 2cm;
+}
+#id{
+    color: brown;
+}
+ /*.asd{
+    color:blue;
+   text-align: center;
+   margin: 0cqb;
+   border: 2px dotted red;
+   padding:2px dotted #6200ff ;
+}
+table,th,td {
+    border: 2px soild red;
+    font-family: 'Courier New', Courier, monospace;
+   
+    
+}*/
+
+table,tr,th,td,caption{
+    border:1px dotted red;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    background-color: beige;
+
+}
+.bannwer{
+    background-image: url(..//image/man.jpg.jpg);
+    background-repeat: no-repeat;
+    height: 500%;
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: greenyellow;
+    text-transform: uppercase;
+    font-style: oblique;
+    text-decoration: wavy;
+}
